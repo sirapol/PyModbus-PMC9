@@ -10,8 +10,8 @@ This is example and Modbus address of Power Meter Schneider PM9C.
 3. Power Meter Schneider PM9C
 
 -----Wiring-----
-
 Laptop  |USB    GND              |PowerMeter
-or      |to     A   <---> RS485+ |Schneider
-PC      |RS485  B   <---> RS485- |PM9C
 
+or      |to     A   <---> RS485+ |Schneider
+
+PC      |RS485  B   <---> RS485- |PM9C
